@@ -1,3 +1,5 @@
+windows.alert('こんにちは');
+
 console.log('こんにちは');
 
 var result=window.confirm('準備OK？');
