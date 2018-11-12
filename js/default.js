@@ -18,7 +18,7 @@ if(answer===number){
 }else if(answer<number){
   message='もっと大きい';
 }else if(number<answer){
-  message=もっと小さい';
+  message='もっと小さい';
 }else{
   message=0～3の数字を入力してください';
 }
