@@ -1,3 +1,5 @@
+
+@charset "utf-8"; 
 console.log('こんにちは');
 
 var result=window.confirm('準備OK？');
