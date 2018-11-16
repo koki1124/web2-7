@@ -6,7 +6,7 @@ if(answer === number){
   message= 'あたり';
 }else if (answer < number){
   message ='もっと大きいです';
-}else if number < answer){
+}else if (number < answer){
   message = 'もっと小さいです';
 }else{
   message = '0～3の数字を入力してください');
