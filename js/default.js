@@ -1,4 +1,4 @@
-windows.alert('こんにちは世界'); 
+window.alert('こんにちは世界'); 
 console.log('こんにちは');
 
 
