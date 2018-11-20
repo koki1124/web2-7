@@ -5,7 +5,6 @@ var message;
 for (var i=0;i<100;i++){
 if(answer === number){
   message= 'あたり';
-  break;
 }else if (answer < number){
   message ='もっと大きいです';
 }else if (number < answer){
